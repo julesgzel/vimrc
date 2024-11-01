@@ -18,3 +18,9 @@ $: vim
 ```
 
 ### Step 5 - Restart Vim and enjoy this new configuration.
+
+ENSUITE  
+
+cp powerline.vim ~/.vim/plugged/vim-airline-themes/autoload/airline/themes/  
+:CocInstall coc-json coc-tsserver coc-tabnine  
+
